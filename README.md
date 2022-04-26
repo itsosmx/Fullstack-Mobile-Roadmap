@@ -18,7 +18,7 @@
 
 
 **React Native** `3 days` `front-end framework`
- *Project Sample: https://youtu.be/_ivIUCSOZ78 `after finshing the course`*
+*Project Sample: https://youtu.be/_ivIUCSOZ78 `after finshing the course`*
 1. *English:* https://youtu.be/0-S5a0eXPoc `Best of Best`
 2. *Arabic:* https://www.youtube.com/watch?v=H6mvkrTnCzM&list=PL_aOZuct6oApk0blD7LT4PtdTxCWwAlnb `idk`
 
