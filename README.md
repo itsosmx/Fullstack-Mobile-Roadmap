@@ -9,7 +9,7 @@
 
 
 **Javascript OPP** `1 - 2 days` `used for front-end`
-1. *Arabic:* https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF `1-15 or Full list for golds only ;` `Best`
+1. *Arabic:* https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF `1-15 or Full list for golds only` `Best`
 2. *English:* https://youtu.be/PFmuCDHHpwk `Old but Gold`
 
 
