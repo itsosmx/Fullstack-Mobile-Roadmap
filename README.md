@@ -3,7 +3,7 @@
 **Javascript basics** `1 day enough` `used for front-end`
 1. *English:* https://youtu.be/W6NZfCO5SIk `Best`
 2. *Arabic:* https://youtu.be/Ai_0ONyPay4 `idk`
-
+3. *Arabic:* https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE `Mostafa Suggestion`
 
 --------------------------------------------------------------------
 
