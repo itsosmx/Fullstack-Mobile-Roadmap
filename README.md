@@ -16,7 +16,11 @@
 
 --------------------------------------------------------------------
 **Javascript basics** + **Javascript OOP** `Mostafa Suggestion` `UP-TO-DATE`
-1. *Arabic:* : https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE `1 - 47 Video Only`
+```
+Watch where you like youtube or website
+```
+1. *Arabic:* https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE `1 - 47 Video Only`
+2. *Website:* https://nouvil.net/courses/javascript/ `to object`
 
 --------------------------------------------------------------------
 
