@@ -43,7 +43,7 @@ Simple Apps after finishing All above coures
 2. **Counter**
  - *Course:* https://www.youtube.com/watch?v=Wt3gp1MLWts
 
-3. **Notes App **
+3. **Notes App**
  - *Course:* https://www.youtube.com/watch?v=OmL8ueRKDy8
  - *Source Code:* https://github.com/NikValdez/FirstReactNativeAppTut
 
